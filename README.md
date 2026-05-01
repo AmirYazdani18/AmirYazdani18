@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @AmirYazdani18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AmirYazdani18/AmirYazdani18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Hi, I am Amir Yazdani. I am a first year electrical engineering student at Carleton University. I have a passion for Data Science and Software Engineering. I am currently learning about Python. 
+Hi, I am Amir Yazdani. I am currently in honours in Economics at University of Ottawa. I have a strong interest in market analysis, economic strategy, and data analysis. 
+I have experience analyzing economic trends, policy impacts, and real-world problems through academic and independent projects. My work includes analyzing time-series analysis on macroeconomic data to examine relationships between inflation, unemployment, and GDP growth, as well as evaluating policy impacts such as Canadian tariff effects on market outcomes. I analyzed the decline in Brazil’s income inequality, identifying key drivers including human capital expansion, labour market formalization, and redistributive policies, and linking these factors to productivity and long-term economic growth. I developed analytical skills through a foundation in economic modelling, statistics, quantitative reasoning, with using Excel for data analysis and visualization. I have also researched Canadian economic issues, including Indigenous economic outcomes, interpreting statistical indicators both mathematically and conceptually. 
+During the summer season, I will be working at Flowdum Property Services as a door to door sales marketer.
+My goals are to get into masters in Economics, work as a data or policy analysis, and have a small business relating to home service jobs.
